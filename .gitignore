@@ -1,0 +1,6 @@
+/Dist-Zilla-Plugin-MakeMaker-IncShareDir-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
