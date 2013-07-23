@@ -1,7 +1,7 @@
 package Dist::Zilla::Plugin::MakeMaker::IncShareDir;
 
 use strict;
-use 5.008_005;
+use 5.008_001;
 our $VERSION = '0.01';
 
 use Moose;
@@ -37,7 +37,7 @@ Dist::Zilla::Plugin::MakeMaker::IncShareDir - MakeMaker subclass that bundles Fi
 
 =head1 SYNOPSIS
 
-  use Dist::Zilla::Plugin::MakeMaker::IncShareDir;
+  [MakeMaker::IncShareDir]
 
 =head1 DESCRIPTION
 
