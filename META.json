@@ -48,6 +48,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/miyagawa/Dist-Zilla-Plugin-MakeMaker-IncShareDir/issues"
+      },
+      "homepage" : "https://github.com/miyagawa/Dist-Zilla-Plugin-MakeMaker-IncShareDir",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/miyagawa/Dist-Zilla-Plugin-MakeMaker-IncShareDir.git",
+         "web" : "https://github.com/miyagawa/Dist-Zilla-Plugin-MakeMaker-IncShareDir"
+      }
+   },
    "version" : "0.01"
 }
 

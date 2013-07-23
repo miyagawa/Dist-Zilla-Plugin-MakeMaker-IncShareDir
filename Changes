@@ -1,4 +1,6 @@
 Revision history for Dist-Zilla-Plugin-MakeMaker-IncShareDir
 
 {{$NEXT}}
+
+0.01  2013-07-23 13:53:30 PDT
         - Initial release
